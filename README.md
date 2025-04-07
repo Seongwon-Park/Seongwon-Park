@@ -1,10 +1,3 @@
-<!-- 애니메이션 배너 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Back-end+Framework+Engineer;Build+smart.+Build+solid." />
-</p>
-
----
-
 ## 👋 안녕하세요! 백엔드 프레임워크 개발자 성원입니다!
 - ⚙️ Java & Spring 기반의 **백엔드 프레임워크**를 설계하고 개발합니다.
 - 🧠 **EAI 시스템**, **인증 시스템**, **업데이트 설계**, **메일 시스템** 개발 경험이 있습니다.
